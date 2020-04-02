@@ -1,0 +1,2 @@
+# KendoReact
+Kendo react projects
